@@ -1,0 +1,9 @@
+#Core ML libraries
+torch >= 2.0.0
+matplotlib >= 3.5.0
+
+#Transformer interpretability
+transformer-lens >= 1.0.0
+sae-lens >= 1.0.0
+
+
